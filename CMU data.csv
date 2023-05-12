@@ -65,15 +65,15 @@
 7,1,"walk",120,157,"Centered","DragonForgedTheArtist"
 7,2,"walk",120,164,"Centered","DragonForgedTheArtist"
 7,3,"walk",120,208,"Imported","DragonForgedTheArtist"
-7,4,"slow walk",120,,,
-7,5,"slow walk",120,,,
-7,6,"walk",120,,,
-7,7,"walk",120,,,
-7,8,"walk",120,,,
-7,9,"walk",120,,,
-7,10,"walk",120,,,
-7,11,"walk",120,,,
-7,12,"brisk walk",120,,,
+7,4,"slow walk",120,225,"Imported","DragonForgedTheArtist"
+7,5,"slow walk",120,259,"Imported","DragonForgedTheArtist"
+7,6,"walk",120,209,"Imported","DragonForgedTheArtist"
+7,7,"walk",120,190,"Imported","DragonForgedTheArtist"
+7,8,"walk",120,181,"Imported","DragonForgedTheArtist"
+7,9,"walk",120,153,"Imported","DragonForgedTheArtist"
+7,10,"walk",120,151,"Imported","DragonForgedTheArtist"
+7,11,"walk",120,158,"Imported","DragonForgedTheArtist"
+7,12,"brisk walk",120,132,"Imported","DragonForgedTheArtist"
 8,1,"walk",120,,,
 8,2,"walk",120,,,
 8,3,"walk",120,,,
